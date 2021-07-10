@@ -1,0 +1,12 @@
+h1 {
+    background-color: tomato;
+    text-align: center;
+    margin: 0 auto;
+    box-shadow: 29px 33px 67px -9px rgba(125,103,103,0.71);
+-webkit-box-shadow: 29px 33px 67px -9px rgba(125,103,103,0.71);
+-moz-box-shadow: 29px 33px 67px -9px rgba(125,103,103,0.71);
+width: 840px;
+margin-top: 20%;
+  }
+
+  
